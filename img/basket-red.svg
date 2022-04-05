@@ -1,0 +1,8 @@
+<svg id="basket-red" xmlns="http://www.w3.org/2000/svg" width="20.827" height="20" viewBox="0 0 20.827 20">
+  <g id="basket-red-2" data-name="basket-red" transform="translate(0 0)">
+    <path id="Shape" d="M0,0,1.034,8.969h10.45L12.66,0Z" transform="translate(5.888 4.031)" fill="#e84d37"/>
+    <circle id="Oval" cx="2" cy="2" r="2" transform="translate(4.984 16)" fill="#343434"/>
+    <circle id="Oval-2" data-name="Oval" cx="2" cy="2" r="2" transform="translate(13.984 16)" fill="#343434"/>
+    <path id="Shape-2" data-name="Shape" d="M19.128,15H5.14L3.64,2H0V0H5.422l.236,2.031h15.17L19.128,15ZM5.888,4.031,6.922,13h10.45l1.176-8.969H5.888Z" fill="#343434"/>
+  </g>
+</svg>
